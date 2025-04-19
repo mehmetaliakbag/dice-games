@@ -23,7 +23,7 @@ This project is a simple **React** application where the user and the computer r
 
 Check out the live version of the Dice Game here:
 
-**[Live Demo on Netlify](https://)**
+**[Live Demo on Netlify][(https://dice-games-patk.netlify.app/)]**
 
 ## Screenshots 🖼️
 
@@ -44,9 +44,3 @@ To run the project on your local machine, follow these steps.
 ### Requirements
 
 This project requires **Node.js** and **npm**. If you don’t have Node.js installed, you can download it from the [Node.js website](https://nodejs.org/en/download/).
-
-### Steps
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/yakuperenermurat/Dice-Games.git
