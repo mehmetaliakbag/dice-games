@@ -21,9 +21,7 @@ This project is a simple **React** application where the user and the computer r
 
 ## Live Demo 🌐
 
-Check out the live version of the Dice Game here:
-
-**[Live Demo on Netlify][(https://dice-games-patk.netlify.app/)]**
+Check out the live version of the Dice Game here
 
 ## Screenshots 🖼️
 
